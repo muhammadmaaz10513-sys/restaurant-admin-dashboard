@@ -1,6 +1,13 @@
 # 👑 Zaiqa Palace - Standalone Restaurant Admin Dashboard
 
-A dedicated, standalone Admin & Operations Portal built with React 19, Tailwind CSS v4, Lucide Icons, and Supabase.
+> A dedicated, standalone Admin & Operations Portal built with React 19, Tailwind CSS v4, Lucide Icons, and Supabase Realtime.
+>
+> 🌐 **Live Demo:** [https://restaurant-admin-dashboard-zeta.vercel.app](https://restaurant-admin-dashboard-zeta.vercel.app)  
+> 👨‍💻 **Developer:** [Muhammad Maaz](https://www.linkedin.com/in/muhammad-maaz-frontend/) · [LinkedIn Profile](https://www.linkedin.com/in/muhammad-maaz-frontend/) · [GitHub](https://github.com/muhammadmaaz10513-sys)
+
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-success?style=for-the-badge&logo=vercel)](https://restaurant-admin-dashboard-zeta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Maaz-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-maaz-frontend/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/muhammadmaaz10513-sys)
 
 ---
 
@@ -41,3 +48,12 @@ A dedicated, standalone Admin & Operations Portal built with React 19, Tailwind 
 4. **Automated Social Media Scheduler (Part B):**
    - 4-Post automated campaign schedule (3 pictures + 1 reel) at peak Pakistan engagement hours.
    - Master timetable and realistic social media card previews.
+
+---
+
+## 👨‍💻 Developer & Author
+- **Muhammad Maaz** — Frontend & Full Stack Developer
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-maaz-frontend/](https://www.linkedin.com/in/muhammad-maaz-frontend/)
+- **GitHub:** [https://github.com/muhammadmaaz10513-sys](https://github.com/muhammadmaaz10513-sys)
+- **Live Project:** [https://restaurant-admin-dashboard-zeta.vercel.app](https://restaurant-admin-dashboard-zeta.vercel.app)
+
